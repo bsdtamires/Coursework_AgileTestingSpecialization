@@ -21,4 +21,4 @@ Este projeto é uma suíte de testes automatizados utilizando Python, Selenium W
 Cada teste utiliza os Page Objects da pasta pages para realizar ações e verificações, garantindo assim um código organizado e reutilizável.
 
 **Site utilizado:** 
-https://demowebshop.tricentis.com/
+https://www.saucedemo.com/

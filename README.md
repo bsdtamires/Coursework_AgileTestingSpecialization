@@ -1,6 +1,7 @@
 # Projeto de Testes Automatizados com Selenium e Python
+Esse projecto fez parte da especialização em Testes Ageis para exploração de fundamentos de automação utilizando Python e Selenium
 
-Este projeto é uma suíte de testes automatizados utilizando Python, Selenium WebDriver no padrão Page Object Model (POM), criado em acompanhamento às aulas de Testes de Sistemas da Especialização em Testes Ágeis.
+Trata-se de uma suíte de testes automatizados utilizando Python, Selenium WebDriver no padrão Page Object Model (POM), criado em acompanhamento às aulas de Testes de Sistemas da Especialização em Testes Ágeis.
 
 ## Estrutura do projeto
 
